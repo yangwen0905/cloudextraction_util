@@ -1,0 +1,6 @@
+.vscode
+.idea
+taskids
+*.log
+*.xls
+.DS_Store
